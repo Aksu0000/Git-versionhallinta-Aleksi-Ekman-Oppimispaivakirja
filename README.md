@@ -12,6 +12,6 @@ Tämä repositorio sisältää oppimispäiväkirjan harjoituksista, jotka on teh
 Oppimispäiväkirjat on yhdistetty oletushaaraan `main`.  
 
 Linkit harjoituksiin:
-- [Päiväkirja 1](#paivakirja1)  
-- [Päiväkirja 2](#paivakirja2)  
-- [Päiväkirja 3](#paivakirja3)
+- [Päiväkirja 1](https://github.com/Aksu0000/Git-versionhallinta-Aleksi-Ekman-Oppimispaivakirja/blob/main/paivakirja1.md)
+- [Päiväkirja 2](https://github.com/Aksu0000/Git-versionhallinta-Aleksi-Ekman-Oppimispaivakirja/blob/main/paivakirja2.md) 
+- [Päiväkirja 3](https://github.com/Aksu0000/Git-versionhallinta-Aleksi-Ekman-Oppimispaivakirja/blob/main/paivakirja3.md)
